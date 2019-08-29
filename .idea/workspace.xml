@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ae6f86-28f6-4b20-af5d-695aa9e303ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode95.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +15,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode101.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode102.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="35" selection-start-line="35" selection-end-line="41" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="377">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,6 +83,8 @@
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode99.java" />
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode100.java" />
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode101.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode102.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java" />
       </list>
     </option>
   </component>
@@ -106,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567082122558" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567083451267" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -122,9 +144,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode99">
-    <configuration name="LeetCode93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode93" />
+  <component name="RunManager" selected="Application.LeetCode103">
+    <configuration name="LeetCode102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode102" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode94" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode94" />
+    <configuration name="LeetCode103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode103" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -189,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode93" />
-      <item itemvalue="Application.LeetCode94" />
       <item itemvalue="Application.LeetCode96" />
       <item itemvalue="Application.LeetCode98" />
       <item itemvalue="Application.LeetCode99" />
+      <item itemvalue="Application.LeetCode102" />
+      <item itemvalue="Application.LeetCode103" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode103" />
+        <item itemvalue="Application.LeetCode102" />
         <item itemvalue="Application.LeetCode99" />
         <item itemvalue="Application.LeetCode98" />
         <item itemvalue="Application.LeetCode96" />
-        <item itemvalue="Application.LeetCode94" />
-        <item itemvalue="Application.LeetCode93" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +245,7 @@
       <workItem from="1566825799689" duration="3135000" />
       <workItem from="1566878452797" duration="8066000" />
       <workItem from="1566994202963" duration="2375000" />
-      <workItem from="1567077999686" duration="4119000" />
+      <workItem from="1567077999686" duration="5324000" />
     </task>
     <task id="LOCAL-00001" summary="2019/08/26">
       <created>1566804929124</created>
@@ -246,11 +268,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566889293881</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2019/08/29">
+      <created>1567082133237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567082133237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26046000" />
+    <option name="totallyTimeSpent" value="27251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -294,7 +323,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019/08/26" />
     <MESSAGE value="2019/08/27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/08/27" />
+    <MESSAGE value="2019/08/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/08/29" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode1.java">
@@ -450,8 +480,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode101.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode102.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="35" selection-start-line="35" selection-end-line="41" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
