@@ -1,3 +1,6 @@
+package com.jenkinsye.oj.leetcode;
+import com.jenkinsye.oj.leetcode.util.ListNode;
+
 public class LeetCode25 {
     public ListNode reverseKGroup(ListNode head, int k) {
         if(k == 1 || head == null) return head;
@@ -31,7 +34,7 @@ public class LeetCode25 {
     public static void main(String[] args) {
         LeetCode25 leetCode25 = new LeetCode25();
         int[] nums = {1, 2, 3, 4, 5};
-        ListNode listNode = ListNode.createList(nums);
+        ListNode listNode = ListNode.createListFromArray(nums);
         int k = 3;
         ListNode.printList(leetCode25.reverseKGroup(listNode, k));
     }

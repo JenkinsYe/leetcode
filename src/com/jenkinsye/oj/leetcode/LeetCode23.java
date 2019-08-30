@@ -1,3 +1,6 @@
+package com.jenkinsye.oj.leetcode;
+import com.jenkinsye.oj.leetcode.util.ListNode;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -34,9 +37,9 @@ public class LeetCode23 {
         int[] nums1 = {1, 3, 4};
         int[] nums2 = {2, 6};
         ListNode[] listNodes = new ListNode[3];
-        listNodes[0] = ListNode.createList(nums0);
-        listNodes[1] = ListNode.createList(nums1);
-        listNodes[2] = ListNode.createList(nums2);
+        listNodes[0] = ListNode.createListFromArray(nums0);
+        listNodes[1] = ListNode.createListFromArray(nums1);
+        listNodes[2] = ListNode.createListFromArray(nums2);
         ListNode.printList(leetCode23.mergeKLists(listNodes));
     }
 }

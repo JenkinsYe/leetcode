@@ -1,3 +1,6 @@
+package com.jenkinsye.oj.leetcode;
+import com.jenkinsye.oj.leetcode.util.ListNode;
+
 public class LeetCode61 {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null || k == 0)
@@ -31,7 +34,7 @@ public class LeetCode61 {
     public static void main(String[] args) {
         LeetCode61 leetCode61 = new LeetCode61();
         int[] nums = {1, 2};
-        ListNode head = ListNode.createList(nums);
+        ListNode head = ListNode.createListFromArray(nums);
         ListNode.printList(leetCode61.rotateRight(head, 1));
     }
 }

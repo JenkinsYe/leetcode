@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ae6f86-28f6-4b20-af5d-695aa9e303ce" name="Default Changelist" comment="" />
+    <list default="true" id="53ae6f86-28f6-4b20-af5d-695aa9e303ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode61.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,19 +28,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode101.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode109.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="137">
+              <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode102.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode110.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="35" selection-start-line="35" selection-end-line="41" selection-end-column="68" />
+            <state relative-caret-position="41">
+              <caret line="5" selection-start-line="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode111.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode112.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode113.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,13 +79,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode114.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -80,7 +123,20 @@
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode100.java" />
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode101.java" />
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode102.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode61.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode25.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode23.java" />
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode104.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode105.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode107.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode108.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode109.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode110.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode111.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode112.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode113.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode114.java" />
       </list>
     </option>
   </component>
@@ -124,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567083541419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567146350279" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -140,9 +196,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode103">
-    <configuration name="LeetCode102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode102" />
+  <component name="RunManager" selected="Application.LeetCode113">
+    <configuration name="LeetCode107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode107" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -154,8 +210,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode103" />
+    <configuration name="LeetCode108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode108" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -167,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode96" />
+    <configuration name="LeetCode109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode109" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -180,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode98" />
+    <configuration name="LeetCode110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode110" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -193,8 +249,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode99" />
+    <configuration name="LeetCode113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jenkinsye.oj.leetcode.LeetCode113" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -207,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode96" />
-      <item itemvalue="Application.LeetCode98" />
-      <item itemvalue="Application.LeetCode99" />
-      <item itemvalue="Application.LeetCode102" />
-      <item itemvalue="Application.LeetCode103" />
+      <item itemvalue="Application.LeetCode107" />
+      <item itemvalue="Application.LeetCode108" />
+      <item itemvalue="Application.LeetCode109" />
+      <item itemvalue="Application.LeetCode110" />
+      <item itemvalue="Application.LeetCode113" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode103" />
-        <item itemvalue="Application.LeetCode102" />
-        <item itemvalue="Application.LeetCode99" />
-        <item itemvalue="Application.LeetCode98" />
-        <item itemvalue="Application.LeetCode96" />
+        <item itemvalue="Application.LeetCode113" />
+        <item itemvalue="Application.LeetCode110" />
+        <item itemvalue="Application.LeetCode109" />
+        <item itemvalue="Application.LeetCode108" />
+        <item itemvalue="Application.LeetCode107" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +298,7 @@
       <workItem from="1566878452797" duration="8066000" />
       <workItem from="1566994202963" duration="2375000" />
       <workItem from="1567077999686" duration="6135000" />
+      <workItem from="1567141278981" duration="5024000" />
     </task>
     <task id="LOCAL-00001" summary="2019/08/26">
       <created>1566804929124</created>
@@ -278,16 +335,24 @@
       <option name="project" value="LOCAL" />
       <updated>1567083517523</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2019/08/30">
+      <created>1567141387278</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567141387278</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28062000" />
+    <option name="totallyTimeSpent" value="33086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.17962466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.1816354" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.17560321" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -296,12 +361,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
@@ -318,6 +383,38 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.1816354" />
+      <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.17560321" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32719547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -326,7 +423,8 @@
     <MESSAGE value="2019/08/26" />
     <MESSAGE value="2019/08/27" />
     <MESSAGE value="2019/08/29" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/08/29" />
+    <MESSAGE value="2019/08/30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/08/30" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode1.java">
@@ -368,16 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode89.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -453,16 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode98.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode99.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -482,14 +560,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode101.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="552">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode102.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="720">
           <caret line="35" selection-start-line="35" selection-end-line="41" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -497,13 +575,133 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode98.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        <state>
+          <caret selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode89.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode61.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode104.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode105.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="15" selection-start-line="15" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode103.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="42" selection-start-line="42" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode107.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode109.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="5" selection-start-line="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode111.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode112.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode114.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>

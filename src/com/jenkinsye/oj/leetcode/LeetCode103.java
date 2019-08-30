@@ -33,6 +33,7 @@ public class LeetCode103 {
                 }
                 count--;
             }
+            level++;
             result.add(temp);
         }
         return result;
