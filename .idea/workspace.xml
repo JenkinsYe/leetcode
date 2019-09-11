@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ae6f86-28f6-4b20-af5d-695aa9e303ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jenkinsye/interview/LRU.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,44 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode127.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode128.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="6" selection-start-line="6" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode129.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode130.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/interview/LRU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="44" column="5" lean-forward="true" selection-start-line="5" selection-end-line="44" selection-end-column="5" />
+            <state relative-caret-position="256">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -122,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode128.java" />
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode129.java" />
         <option value="$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode130.java" />
+        <option value="$PROJECT_DIR$/src/com/jenkinsye/interview/LRU.java" />
       </list>
     </option>
   </component>
@@ -152,20 +115,20 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="jenkinsye" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568121164774" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568202503100" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -286,7 +249,8 @@
       <workItem from="1567141278981" duration="5064000" />
       <workItem from="1567332570505" duration="3157000" />
       <workItem from="1567353935522" duration="10000" />
-      <workItem from="1568111246301" duration="7805000" />
+      <workItem from="1568111246301" duration="7837000" />
+      <workItem from="1568201314817" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary="2019/08/26">
       <created>1566804929124</created>
@@ -344,16 +308,24 @@
       <option name="project" value="LOCAL" />
       <updated>1567339482914</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2019/09/10">
+      <created>1568121298637</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568121298637</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44098000" />
+    <option name="totallyTimeSpent" value="45271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.18900804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.19168901" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.17560321" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -362,12 +334,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3371105" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3371105" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
@@ -394,7 +366,8 @@
     <MESSAGE value="2019/08/29" />
     <MESSAGE value="2019/08/30" />
     <MESSAGE value="2019/09/01" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/09/01" />
+    <MESSAGE value="2019/09/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/09/10" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode1.java">
@@ -740,13 +713,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode127.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode130.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="44" column="5" selection-start-line="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode129.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -760,17 +737,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode129.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode127.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="57">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/oj/leetcode/LeetCode130.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jenkinsye/interview/LRU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="5" selection-end-line="44" selection-end-column="5" />
+        <state relative-caret-position="256">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
         </state>
       </provider>
     </entry>
